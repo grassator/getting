@@ -34,7 +34,7 @@
     "transform": {
       "\\.(ts|tsx)$": "ts-jest"
     },
-    "testRegex": "src/.*\\.(ts|tsx|js)$"
+    "testRegex": "src/.*\\.test\\.(ts|tsx|js)$"
   },
   "files": [
     "dist/*"
