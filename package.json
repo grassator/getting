@@ -8,6 +8,7 @@
     "test": "jest",
     "build": "tsc"
   },
+  "repository": "https://github.com/grassator/getting",
   "keywords": [
     "typescript",
     "get",
